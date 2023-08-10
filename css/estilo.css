@@ -176,6 +176,15 @@ footer ul li {
 
  `sm` applies to x-small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
+
+    .divisor {
+        margin: 20px 12px;
+        width: 16px;
+        height: 1px;
+        background: white;
+    }
+
+
    .btn-custom {
     margin: 10px 15px;
     padding: 8px 23px;
@@ -186,6 +195,13 @@ footer ul li {
 @media (min-width: 576px) and (max-width: 767.98px) {
     h1 {
         font-size: 3em;
+    }
+
+    .divisor {
+        margin: 20px 12px;
+        width: 16px;
+        height: 1px;
+        background: white;
     }
 
     .btn-custom {
