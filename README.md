@@ -15,4 +15,7 @@ imagem-do-seu-projeto
 🔧 Como Rodar:
 
     Clone este repositório:
+    https://github.com/Thiago-JLopes/cloneSpotify.git
+
+    Abra o arquivo index.html no seu navegador de preferência.
 
