@@ -70,6 +70,10 @@ body {
     border: 2px solid white;
 }
 
+.carousel-control-next, .carousel-control-prev {
+    width: 5%;
+}
+
 .btn-roxo:hover {
     color: white;
     background: #6211d3;
